@@ -8,7 +8,7 @@ rich_hidden += collect_submodules("rich._unicode_data", on_error="ignore")
 rich_datas += collect_data_files("rich._unicode_data", include_py_files=True)
 
 a = Analysis(
-    ["main.py"],
+    ["ppl.py"],
     pathex=[],
     binaries=rich_binaries,
     datas=rich_datas,
