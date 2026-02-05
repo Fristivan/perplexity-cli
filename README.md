@@ -293,11 +293,6 @@ pyinstaller --clean --noconfirm ppl.spec
 
 ---
 
-## Лицензия
-MIT (добавь файл `LICENSE`).
-
----
-
 ## Ссылки
 - Perplexity API — Chat Completions: https://docs.perplexity.ai/api-reference/chat-completions-post
 - Typer (CLI framework): https://typer.tiangolo.com/
